@@ -2,4 +2,5 @@ squid-scripts
 =============
 
 ![Status](https://api.travis-ci.org/sinfallas/squid-scripts.svg) 
-scripts for squid
+
+Scripts to automate common tasks when using squid
