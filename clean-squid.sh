@@ -7,5 +7,5 @@ service squid3 stop
 rm -rfv /var/spool/squid3/*
 squid3 -z
 service squid3 restart
-echo "finalizado"
+echo -e "\e[00;1;92mFinished...\e[00m"
 exit 0
