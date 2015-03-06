@@ -1,4 +1,16 @@
-commit da46a7e11ce2416c5a5b4b4aadb56409f04358d8 (HEAD, origin/master, origin/HEAD, master)
+commit b533866af308ee2dbea4e204dbc919d2ecd592a7 (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Fri Mar 6 16:56:27 2015 -0430
+
+    * se completa la traduccion
+
+commit c08d683833098de84fe2bb54f1fc80fb0f9da85e
+Author: jose perez <sinfallas@gmail.com>
+Date:   Thu Mar 5 20:37:57 2015 -0430
+
+    * changelog
+
+commit da46a7e11ce2416c5a5b4b4aadb56409f04358d8
 Author: jose perez <sinfallas@gmail.com>
 Date:   Thu Mar 5 20:37:44 2015 -0430
 
