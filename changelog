@@ -1,10 +1,40 @@
-commit dc7a4dd5016bfada0d0cd60483466938c97fde81 (HEAD, origin/master, origin/HEAD, master)
+commit 5effd27d854d2655e1fabd341058c16a9af53833 (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Thu Oct 22 19:26:51 2015 -0430
+
+    * se agrega trap
+
+commit 51cfea921f5a5650b395a3ee588977ee41f95e91
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sun Oct 18 23:57:07 2015 -0430
+
+    optimizaciones
+
+commit 8cbaace0a3fb33d257b791a0ebe26b8595118762
+Author: jose perez <sinfallas@gmail.com>
+Date:   Tue Oct 13 21:59:06 2015 -0430
+
+    coveralls
+
+commit aeb4b6f3faa8659f9c9a8be248e763f569ca922e
+Author: jose perez <sinfallas@gmail.com>
+Date:   Mon Oct 12 12:46:53 2015 -0430
+
+    licencia
+
+commit c23d47590d8310b6049e52f3dcccfb091dc766d6
+Author: jose perez <sinfallas@gmail.com>
+Date:   Mon Aug 10 20:18:14 2015 -0430
+
+    * changelog
+
+commit dc7a4dd5016bfada0d0cd60483466938c97fde81
 Author: jose perez <sinfallas@gmail.com>
 Date:   Mon Aug 10 20:18:03 2015 -0430
 
     * doi
 
-commit 550e35a04af4973c513332804f34d1b3536174da
+commit 550e35a04af4973c513332804f34d1b3536174da (tag: v1.1.1)
 Author: jose perez <sinfallas@gmail.com>
 Date:   Sat Aug 1 21:42:54 2015 -0430
 
