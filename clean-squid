@@ -6,13 +6,13 @@ if [[ $USER != root ]]; then
 	echo -e "\e[00;31mERROR: DEBES SER ROOT\e[00m"
 	exit 1
 fi
-trap "rm -f /run/clean-squid.pid; exit" INT TERM EXIT
-echo "$BASHPID" > /run/clean-squid.pid
+trap "rm -f /run/$(basename $0).pid; exit" INT TERM EXIT
+echo "$BASHPID" > /run/$(basename $0).pid
 service squid3 stop
 rm -rfv /var/spool/squid3/*
 squid3 -z
 service squid3 restart
 echo -e "\e[00;1;92mFinished...\e[00m"
-rm -f /run/clean-squid.pid
+rm -f /run/$(basename $0).pid
 trap - INT TERM EXIT
 exit 0
