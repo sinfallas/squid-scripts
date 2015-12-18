@@ -1,4 +1,10 @@
-commit 41e51b55daf21113cbe06f00acef57fe7d42767d (HEAD, origin/master, origin/HEAD, master)
+commit a3010005af08431179203cec81810d1ae4d7fa7c (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sat Dec 12 00:17:04 2015 -0430
+
+    * changelog
+
+commit 41e51b55daf21113cbe06f00acef57fe7d42767d
 Author: jose perez <sinfallas@gmail.com>
 Date:   Sat Dec 12 00:14:09 2015 -0430
 
