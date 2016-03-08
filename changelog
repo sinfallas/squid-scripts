@@ -1,4 +1,16 @@
-commit cb0beef5c4d6080ef5737dc84dff398b93af9255 (HEAD, origin/master, origin/HEAD, master)
+commit 2f8f784cbe6c29500f2f4f74bf17a795c0ce6a03 (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Tue Mar 8 12:44:32 2016 -0430
+
+    * se agrega trap
+
+commit 18cef9d5e598385cba56e1fa4a0861c5c1f7af18
+Author: jose perez <sinfallas@gmail.com>
+Date:   Tue Mar 8 12:40:20 2016 -0430
+
+    * changelog
+
+commit cb0beef5c4d6080ef5737dc84dff398b93af9255
 Author: Jose Perez <sinfallas@users.noreply.github.com>
 Date:   Tue Mar 8 12:36:21 2016 -0430
 
