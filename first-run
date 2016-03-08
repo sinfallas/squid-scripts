@@ -1,8 +1,19 @@
 #!/usr/bin/env bash
+# Made by Sinfallas <sinfallas@yahoo.com>
+# Licence: GPL-2
+set -eu
+LC_ALL=C
+if [[ "$EUID" != "0" ]]; then
+	echo -e "\e[00;31mERROR: DEBES SER ROOT\e[00m"
+	exit 1
+fi
+trap "rm -f /run/$(basename $0).pid; exit" 0 1 2 3 15
+echo "$BASHPID" > /run/$(basename $0).pid
 mkdir -p /var/log/squid3
 mkdir -p /var/spool/squid3
 chown -R proxy:proxy /var/spool/squid3/ 
 chown -R proxy:proxy /var/log/squid3/
 squid3 -z
 systemctl restart squid
+rm -f /run/$(basename $0).pid
 exit 0
