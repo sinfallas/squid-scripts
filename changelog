@@ -1,4 +1,16 @@
-commit 816cb984016e9a4cc2a6039b3de3b77ab2c49261 (HEAD, origin/master, origin/HEAD, master)
+commit cb0beef5c4d6080ef5737dc84dff398b93af9255 (HEAD, origin/master, origin/HEAD, master)
+Author: Jose Perez <sinfallas@users.noreply.github.com>
+Date:   Tue Mar 8 12:36:21 2016 -0430
+
+    Create first-run
+
+commit d3849d8ac4ec4d90730eaa85cff0e31742fc1081
+Author: jose perez <sinfallas@gmail.com>
+Date:   Mon Feb 29 21:32:52 2016 -0430
+
+    * changelog
+
+commit 816cb984016e9a4cc2a6039b3de3b77ab2c49261
 Author: jose perez <sinfallas@gmail.com>
 Date:   Mon Feb 29 21:32:38 2016 -0430
 
