@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+mkdir -p /var/log/squid3
+mkdir -p /var/spool/squid3
+chown -R proxy:proxy /var/spool/squid3/ 
+chown -R proxy:proxy /var/log/squid3/
+squid3 -z
+systemctl restart squid
+exit 0
