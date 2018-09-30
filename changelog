@@ -1,4 +1,10 @@
-commit 2f8f784cbe6c29500f2f4f74bf17a795c0ce6a03 (HEAD, origin/master, origin/HEAD, master)
+commit 02a6a9060efca8c83238e60629d46238a405ff2b (HEAD -> master, tag: v1.2, origin/master, origin/HEAD)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Tue Mar 8 12:44:49 2016 -0430
+
+    * changelog
+
+commit 2f8f784cbe6c29500f2f4f74bf17a795c0ce6a03
 Author: jose perez <sinfallas@gmail.com>
 Date:   Tue Mar 8 12:44:32 2016 -0430
 
