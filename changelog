@@ -1,4 +1,16 @@
-commit 02a6a9060efca8c83238e60629d46238a405ff2b (HEAD -> master, tag: v1.2, origin/master, origin/HEAD)
+commit 267383f47668f6a3447a28a3b55b7609a194ba75 (HEAD -> master, origin/master, origin/HEAD)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sun Sep 8 13:46:13 2019 -0400
+
+    * se agregan comandos
+
+commit 448f8d2d7fe0f4b9b690de7fc687f83a9dfbacee
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sun Sep 30 13:29:34 2018 -0400
+
+    * changelog
+
+commit 02a6a9060efca8c83238e60629d46238a405ff2b (tag: v1.2)
 Author: jose perez <sinfallas@gmail.com>
 Date:   Tue Mar 8 12:44:49 2016 -0430
 
