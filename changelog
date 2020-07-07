@@ -1,4 +1,16 @@
-commit 267383f47668f6a3447a28a3b55b7609a194ba75 (HEAD -> master, origin/master, origin/HEAD)
+commit d4db2b817907db8ba13f1db2dfac0592203bade5 (HEAD -> master, origin/master, origin/HEAD)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Mon Apr 27 16:54:27 2020 -0400
+
+    permisos
+
+commit 3036462859328e610ee9372fc47a61b96d243a17
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sun Sep 8 13:46:25 2019 -0400
+
+    * changelog
+
+commit 267383f47668f6a3447a28a3b55b7609a194ba75
 Author: jose perez <sinfallas@gmail.com>
 Date:   Sun Sep 8 13:46:13 2019 -0400
 
