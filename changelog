@@ -1,4 +1,10 @@
-commit d4db2b817907db8ba13f1db2dfac0592203bade5 (HEAD -> master, origin/master, origin/HEAD)
+commit 37e25f6d9317b91c8429f993d0289c71ad10d1dc (HEAD -> master, origin/master, origin/HEAD)
+Author: config <Palencia>
+Date:   Mon Jul 6 22:04:46 2020 -0400
+
+    * changelog
+
+commit d4db2b817907db8ba13f1db2dfac0592203bade5
 Author: jose perez <sinfallas@gmail.com>
 Date:   Mon Apr 27 16:54:27 2020 -0400
 
